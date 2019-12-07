@@ -18,4 +18,5 @@ washington.csv
 .gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://classroom.udacity.com
+https://github.com/mlkaa/pdsnd_github
