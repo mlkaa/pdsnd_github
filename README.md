@@ -2,7 +2,7 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+GitHub Project _ Udacity
 
 ### Description
 This project has been created by Malak Alasmari
