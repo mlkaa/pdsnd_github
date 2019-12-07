@@ -1,9 +1,9 @@
 ### Date created
 The date of creation this project is Dec 7, 2019
-The is day is Saturday 
+The is day is Saturday
 
 ### Project Title
-Replace the Project Title
+GitHub Project
 
 ### Description
 Describe what your project is about and what it does
