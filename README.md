@@ -8,10 +8,14 @@ GitHub Project
 ### Description
 This project is about GitHub
 We upload the python project which contains of one file of coding and three files of data
-We use GitHub to share the python project with the team, so we can do editing in parallel 
+We use GitHub to share the python project with the team, so we can do editing in parallel
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+.gitignore
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
