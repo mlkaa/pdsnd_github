@@ -6,7 +6,9 @@ The is day is Saturday
 GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about GitHub
+We upload the python project which contains of one file of coding and three files of data
+We use GitHub to share the python project with the team, so we can do editing in parallel 
 
 ### Files used
 Include the files used
